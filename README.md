@@ -2,6 +2,10 @@
 
 A short guide to getting starting with Python's `logging` module.
 
+[Link to Medium article.](https://medium.com/@oliver.k.ernst/stop-using-pythons-print-for-your-library-786a1016f792)
+
+<img src="cover.jpg" alt="drawing" width="400"/>
+
 We've all done this:
 ```
 print("here")
@@ -17,7 +21,7 @@ This is ridiculous!
 
 Use Python's logging module to clean up your logs.
 
-All the code for the package can be found [here]().
+All the code for the package can be found [here](https://github.com/smrfeld/tutorial_python_logging).
 
 ## Requirements
 
@@ -407,6 +411,6 @@ We can therefore control output selectively for:
 
 ## Final thoughts
 
-That does it for me, I'm tired of logging and blogging. All the code for the package can be found [here]().
+That does it for me, I'm tired of logging and blogging. All the code for the package can be found [here](https://github.com/smrfeld/tutorial_python_logging).
 
 In a future part I will discuss logging in `C++` using `spdlog`.
