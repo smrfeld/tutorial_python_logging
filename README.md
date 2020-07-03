@@ -5,6 +5,7 @@ A short guide to getting starting with Python's `logging` module.
 [Link to Medium article.](https://medium.com/@oliver.k.ernst/stop-using-pythons-print-for-your-library-786a1016f792)
 
 <img src="cover.jpg" alt="drawing" width="400"/>
+[Image source](https://pixabay.com/photos/music-mixer-controller-sound-3566919/).
 
 We've all done this:
 ```
